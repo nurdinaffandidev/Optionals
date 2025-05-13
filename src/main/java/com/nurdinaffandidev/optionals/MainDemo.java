@@ -2,7 +2,7 @@ package com.nurdinaffandidev.optionals;
 
 import java.util.Optional;
 
-public class Main {
+public class MainDemo {
     static void runHello(Optional<String> name) {
         System.out.println("Functional programming: ");
         // Functional programming
